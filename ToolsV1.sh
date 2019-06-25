@@ -27,12 +27,12 @@ cowsay -f eyes " HumanMask " | lolcat
 figlet HumanMask | lolcat
 
 echo "[+]""▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼""[+]"
-echo " ▶ ""      ◆◆◆◆◆◆      ♛ Toxic City Attacker ♛      ◆◆◆◆◆◆     "" ◀ "
+echo " ▶ ""      ◆◆◆◆◆◆      ♛ RIMURU TEMPEST ♛      ◆◆◆◆◆◆     "" ◀ "
 echo " ▶ ""▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼"" ◀ "
 echo " ▶ "" Author      : "" HumanMask                               "" ◀ "
 echo " ▶ "" Instagram   : "" _humanmask_                             "" ◀ "
 echo " ▶ "" Motivation  : "" No System Is Safe                       "" ◀ "
-echo " ▶ "" Thanks To   : "" All Member Toxic City Attacker          "" ◀ "
+echo " ▶ "" Facebook    : "" NoGameNoLife (LISA)       "" ◀ "
 echo "[+]""▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲""[+]"
 
 ###################################################
